@@ -1,5 +1,5 @@
 {
-  "name": "connect-history-api-fallback",
+  "name": "",
   "version": "2.0.0",
   "description": "Provides a fallback for non-existing directories so that the HTML 5 history API can be used.",
   "keyswords": [
@@ -22,11 +22,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/bripkens/connect-history-api-fallback.git"
+    "url": "https://github.com/UzairRafq/weather-app-backend.git"
   },
   "author": {
-    "name": "Ben Ripkens",
-    "email": "bripkens@gmail.com"
+    "name": "UzairRafq",
+    "email": "uzairrafq@gmail.com"
   },
   "contributors": [
     "Craig Myles <cr@igmyles.com> (http://www.craigmyles.com)"
